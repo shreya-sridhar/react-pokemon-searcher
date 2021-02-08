@@ -9,3 +9,6 @@ const App = () => (
 )
 
 export default App
+
+
+// Allow users to search a pokemon by its name in order to narrow down the cards shown on the page
